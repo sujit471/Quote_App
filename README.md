@@ -1,16 +1,10 @@
 # quoteapp
 
-A new Flutter project.
+Home Screen: Display a random inspiring quote or message of the day.
+Quote Refresh: Automatically update the quote daily or on app launch.
 
-## Getting Started
+Share Quote: Allow users to share the current quote with others via messaging or social media.
 
-This project is a starting point for a Flutter application.
+Favorite Quotes: Provide an option for users to save and view their favorite quotes.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Interface: Design an attractive and user-friendly interface.
